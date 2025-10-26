@@ -2,10 +2,14 @@
 
 This repository contains **only the slide component** developed for the project **“Animais Fantásticos”**, originally created during the **Complete JavaScript ES6 Course** by [Origamid](https://www.origamid.com/).
 
+
 ## 🚀 About the Component
 
 The **slide** is a fully custom-built JavaScript module designed to create smooth and interactive carousel navigation.  
 It was developed entirely in **JavaScript (ES6+)**, using modern programming practices without any external libraries or frameworks.
+
+You can see the slide in action on the final website here:  
+🔗 [View the full project](https://bmoreto.github.io/bmoreto.github.io-animais-fantasticos/)
 
 ## 🧩 How It Was Built
 
